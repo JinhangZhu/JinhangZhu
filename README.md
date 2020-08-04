@@ -6,8 +6,8 @@
 I'm [**Jinhang Zhu**](https://github.com/JinhangZhu), a postgraduate in Robotics.
 
 - 🔭 I’m currently working on my dissertation project on object detection.
-- 🌱 I’m currently learning deep learning...
+- 🌱 I’m currently learning deep learning, Java.
 - 📫 How to reach me: [Email](mailto:jinhang.d.zhu@gmail.com) | [Blog](https://www.jinhang.work/)
 - 😄 Pronouns: Lionel.
-- ⚡ Fun fact: Wanna learn front-end to create unique site!
+- ⚡ Fun fact: Wanna learn front-end to create a unique site!
 
