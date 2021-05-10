@@ -3,8 +3,6 @@
 
 <img align="right" alt="JinhangZhu's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=jinhangzhu&show_icons=true">
 
-<img align="right" alt="JinhangZhu's github stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinhangzhu&layout=compact">
-
 
 I'm [**Jinhang Zhu**](https://github.com/JinhangZhu), a postgraduate in Robotics.
 
